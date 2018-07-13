@@ -1,0 +1,124 @@
+body.black {
+	background-color: #000000; 
+	font-family: Helvetica, Trebuchet MS, Arial, sans-serif;
+	color: white;
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: normal;
+	}
+body.white { 
+	background-color: #ffffff;
+	font-family: Arial, Trebuchet MS, Helvetica, sans-serif;
+	color: red;
+	font-size: 8pt;
+	font-style: normal;
+	font-weight: normal;
+	}
+	body.libby { 
+	background-color: #ffffff;
+	font-family: Arial, Trebuchet MS, Helvetica, sans-serif;
+	color: red;
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: normal;
+	}
+body.grey { 
+	background-color: #CCCCCC; 
+	font-family: Arial, Trebuchet MS, Helvetica, sans-serif;
+	color: black;
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: normal;
+	}
+
+ H1 { 
+	font-family: Arial, Trebuchet MS, sans-serif; 
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: bold;
+	color: red;
+	text-align: center;
+	}
+ H2 {
+	font-family: Arial, Trebuchet MS, sans-serif; 
+	font-size: 16pt;
+	font-style: normal;
+	font-weight: normal;
+	}
+ H3 {
+	font-family: Arial, Trebuchet MS, sans-serif; 
+	font-size: 14pt;
+	font-style: normal;
+	font-weight: bold;
+	}
+ H4 {
+	font-family: Arial, Trebuchet MS, sans-serif; 
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: normal;
+	}
+ H5 {
+	font-family: Arial, Trebuchet MS, sans-serif; 
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: normal;
+	color: red;
+	}
+ H6 {
+	font-family: Arial, Trebuchet MS, sans-serif; 
+	font-size: 8pt;
+	font-style: normal;
+	}
+
+ .head {
+	font-family: Arial, Trebuchet MS, sans-serif; 
+	font-size: 10pt;
+	font-style: normal;
+        color: red;
+	}
+ .bold   { font-weight: bold }
+ .italic { font-style: italic }
+
+ .black { color: black }
+ .white { color: white }
+ .green { color: green }
+ .red   { color: red;
+	  font-size: 10pt;
+        }
+ .blue  { color: blue  }
+ .cyan  { color: cyan  }
+
+A:link {
+	text-decoration: none;
+	color: blue;
+	font-family: Arial, Trebuchet MS, sans-serif;
+	font-size: 9pt;
+	font-weight: normal;
+	font-style: normal;
+	background: transparent;
+	cursor: hand;
+	}
+A:visited {
+	text-decoration: none;
+	color: blue;
+	font-family: Arial, Trebuchet MS, sans-serif;
+	font-size: 9pt;
+	font-weight: normal;
+	font-style: normal;
+	background: transparent;
+	cursor: hand;
+	}
+A:active {
+	text-decoration: none;
+	color: blue;
+	font-family: Arial, Trebuchet MS, sans-serif;
+	font-size: 9pt;
+	font-weight: normal;
+	font-style: normal;
+	background: transparent;
+	cursor: hand;
+	}
+A:hover {
+	color: red;
+	font-size: 9pt;
+	}
