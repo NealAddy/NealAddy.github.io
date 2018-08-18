@@ -1,0 +1,127 @@
+body.black {
+	background-color: #000000; 
+	font-family: Helvetica, Trebuchet MS, Arial, sans-serif;
+	color: white;
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: normal;
+	}
+body.white { 
+	background-color: #FFFFFF;
+	font-family: Arial, Trebuchet MS, Helvetica, sans-serif;
+	color: black;
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: normal;
+	}
+body.grey { 
+	background-color: #CCCCCC; 
+	font-family: Arial, Trebuchet MS, Helvetica, sans-serif;
+	color: black;
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: normal;
+	}
+
+ H1 { 
+	font-family: Arial, Trebuchet MS, sans-serif; 
+	font-size: 18pt;
+	font-style: normal;
+	font-weight: bold;
+	color: red; 
+	text-align: center;
+	}
+ H2 {
+	font-family: Arial, Trebuchet MS, sans-serif; 
+	font-size: 16pt;
+	font-style: normal;
+	font-weight: normal;
+	}
+ H3 {
+	font-family: Arial, Trebuchet MS, sans-serif; 
+	font-size: 14pt;
+	font-style: normal;
+	font-weight: bold;
+	}
+ H4 {
+	font-family: Arial, Trebuchet MS, sans-serif; 
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: normal;
+	}
+ H5 {
+	font-family: Arial, Trebuchet MS, sans-serif; 
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: normal;
+	}
+ H6 {
+	font-family: Arial, Trebuchet MS, sans-serif; 
+	font-size: 8pt;
+	font-style: normal;
+	}
+
+ .bold   { font-weight: bold }
+ .italic { font-style: italic }
+ .upsidedown {filter: flipV();}
+
+ .black { color: black }
+ .white { color: white }
+ .green { color: green }
+ .red   { color: red   }
+ .blue  { color: blue  }
+ .cyan  { color: cyan  }
+
+.inset {
+	border-style: solid;
+	border-bottom-style: inset ;
+	border-top-style: inset ;
+	border-left-style: inset ;
+	border-right-style: inset ;	
+	}
+
+.outset {
+	border-style: ridge;
+	border-bottom-style: outset ;
+	border-top-style: outset ;
+	border-left-style: outset ;
+	border-right-style: outset ;	
+	}
+
+.dropshadow {
+	filter: dropShadow(color=000000,offx=20,offy=20);
+	}
+
+A:link {
+	text-decoration: none;
+	color: blue;
+	font-family: Arial, Trebuchet MS, sans-serif;
+	font-size: 10pt;
+	font-weight: normal;
+	font-style: normal;
+	background: transparent;
+	cursor: hand;
+	}
+ :visited {
+	text-decoration:none;
+	color: blue;
+	font-family: Arial, Trebuchet MS, sans-serif;
+	font-size: 10pt;
+	font-weight: normal;
+	font-style: normal;
+	background: transparent;
+	cursor: hand;
+	}
+ :active {
+	text-decoration:none;
+	color: blue;
+	font-family: Arial, Trebuchet MS, sans-serif;
+	font-size: 10pt;
+	font-weight: normal;
+	font-style: normal;
+	background: transparent;
+	cursor: hand;
+	}
+  :hover {
+	color: 	#FF0000;
+	}
