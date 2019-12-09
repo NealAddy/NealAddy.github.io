@@ -4,10 +4,6 @@ col
 	{mso-width-source:auto;}
 br
 	{mso-data-placement:same-cell;}
-.style16
-	{mso-number-format:"_\(\0022$\0022* \#\,\#\#0\.00_\)\;_\(\0022$\0022* \\\(\#\,\#\#0\.00\\\)\;_\(\0022$\0022* \0022-\0022??_\)\;_\(\@_\)";
-	mso-style-name:Currency;
-	mso-style-id:4;}
 .style0
 	{mso-number-format:General;
 	text-align:general;
@@ -67,30 +63,65 @@ td
 	{mso-style-parent:style0;
 	text-align:center;}
 .xl70
-	{mso-style-parent:style16;
-	mso-number-format:"_\(\0022$\0022* \#\,\#\#0\.00_\)\;_\(\0022$\0022* \\\(\#\,\#\#0\.00\\\)\;_\(\0022$\0022* \0022-\0022??_\)\;_\(\@_\)";}
-.xl71
 	{mso-style-parent:style0;
 	mso-number-format:"Short Date";
 	text-align:left;}
-.xl72
+.xl71
 	{mso-style-parent:style0;
 	text-align:center;
 	border:.5pt solid windowtext;}
-.xl73
+.xl72
 	{mso-style-parent:style0;
 	text-align:left;
 	border:.5pt solid windowtext;}
-.xl74
+.xl73
 	{mso-style-parent:style0;
 	text-align:right;
 	border:.5pt solid windowtext;}
-.xl75
+.xl74
 	{mso-style-parent:style0;
 	text-decoration:underline;
 	text-underline-style:single;
 	text-align:right;
 	border:.5pt solid windowtext;}
+.xl75
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;}
 .xl76
-	{mso-style-parent:style16;
-	mso-number-format:"\#\,\#\#0_\)\;\\\(\#\,\#\#0\\\)";}
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;
+	border:.5pt solid windowtext;}
+.xl77
+	{mso-style-parent:style0;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl78
+	{mso-style-parent:style0;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
+.xl79
+	{mso-style-parent:style0;
+	text-align:left;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
+.xl80
+	{mso-style-parent:style0;
+	text-align:right;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
+.xl81
+	{mso-style-parent:style0;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
